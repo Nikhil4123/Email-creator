@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+bower_components/
+vendor/
+
+# Build outputs
+dist/
+build/
+*.min.*
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Testing
+coverage/
+
+# System Files
+Thumbs.db
